@@ -7,6 +7,6 @@
 (defn main []
   {:DOM (-> xs
             (.periodic 1000)
-            (.map #(h1 (str % " hello seconds elapsed"))))})
+            (.map #(h1 (str % " bla seconds elapsed"))))})
 
 (run main {:DOM (makeDOMDriver "#mount")})
