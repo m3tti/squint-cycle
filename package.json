@@ -1,0 +1,15 @@
+{
+  "type": "module",
+  "dependencies": {
+    "@cycle/dom": "^23.1.0",
+    "@cycle/run": "^5.7.0",
+    "@squint-cljs/macros": "^0.1.0",
+    "preact": "^10.26.5",
+    "squint-cljs": "^0.8.146",
+    "xstream": "^11.14.0"
+  },
+  "devDependencies": {
+      "@preact/preset-vite": "^2.10.1",
+      "vite": "^6.3.1"
+  }
+}
