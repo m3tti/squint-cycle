@@ -2,6 +2,7 @@
   "type": "module",
   "dependencies": {
     "@cycle/dom": "^23.1.0",
+    "@cycle/http": "^15.4.0",
     "@cycle/run": "^5.7.0",
     "@squint-cljs/macros": "^0.1.0",
     "squint-cljs": "^0.8.146",
